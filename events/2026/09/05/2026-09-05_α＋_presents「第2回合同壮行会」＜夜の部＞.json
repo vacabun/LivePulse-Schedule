@@ -1,0 +1,121 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "α＋ presents「第2回合同壮行会」＜夜の部＞",
+    "venue": "Veats Shibuya",
+    "date": "2026-09-05",
+    "openTime": "17:00",
+    "startTime": "17:30",
+    "endTime": "21:30",
+    "description": "ALPHA PLUS presents 第二回 合同壮行会 ＜夜の部＞ @ Veats Shibuya"
+  },
+  "lives": [
+    {
+      "id": "goudou_night_live_oa",
+      "groupName": "α＋",
+      "stage": "Veats Shibuya",
+      "startTime": "17:30",
+      "endTime": "17:40",
+      "description": "Live 开场演出 (O.A)",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_live_1",
+      "groupName": "特撮がるず",
+      "stage": "Veats Shibuya",
+      "startTime": "17:40",
+      "endTime": "18:05",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_live_2",
+      "groupName": "Lv.♡Charm",
+      "stage": "Veats Shibuya",
+      "startTime": "18:05",
+      "endTime": "18:30",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_live_3",
+      "groupName": "Switch Drop",
+      "stage": "Veats Shibuya",
+      "startTime": "18:30",
+      "endTime": "18:55",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_live_4",
+      "groupName": "可憐なアイボリー",
+      "stage": "Veats Shibuya",
+      "startTime": "18:55",
+      "endTime": "19:20",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_live_5",
+      "groupName": "α＋",
+      "stage": "Veats Shibuya",
+      "startTime": "19:20",
+      "endTime": "19:45",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "goudou_night_tokuten_1",
+      "groupName": "特撮がるず",
+      "venue": "Veats Shibuya",
+      "tableArea": "",
+      "startTime": "18:10",
+      "endTime": "19:30",
+      "description": "並行特典会",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_tokuten_2",
+      "groupName": "Lv.♡Charm",
+      "venue": "Veats Shibuya",
+      "tableArea": "",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_tokuten_3",
+      "groupName": "Switch Drop",
+      "venue": "Veats Shibuya",
+      "tableArea": "",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_tokuten_4",
+      "groupName": "可憐なアイボリー",
+      "venue": "Veats Shibuya",
+      "tableArea": "",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "goudou_night_tokuten_5",
+      "groupName": "α＋",
+      "venue": "Veats Shibuya",
+      "tableArea": "",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "description": "終演後特典会",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}
