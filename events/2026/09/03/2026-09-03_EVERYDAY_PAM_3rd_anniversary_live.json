@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "EVERYDAY PAM！ ~ 3rd anniversary live ~",
+    "venue": "Spotify O-Crest",
+    "date": "2026-09-03",
+    "openTime": "18:30",
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "description": "EVERYDAY PAM！ ~ 3rd anniversary live ~ @ Spotify O-Crest (東京都渋谷区道玄坂2-14-8 5階)"
+  },
+  "lives": [
+    {
+      "id": "everyday_pam_live_1",
+      "groupName": "EVERYDAY PAM！",
+      "stage": "Spotify O-Crest",
+      "startTime": "19:00",
+      "endTime": "20:15",
+      "description": "3周年記念 単独Live (予定)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "everyday_pam_tokuten_1",
+      "groupName": "EVERYDAY PAM！",
+      "venue": "Spotify O-Crest",
+      "tableArea": "",
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "description": "終演後物販・特典会 (予定)",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}

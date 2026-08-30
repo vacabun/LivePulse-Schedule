@@ -1,0 +1,302 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "LadySteady supported by BUZZチケ",
+    "venue": "Spotify O-EAST",
+    "date": "2026-09-07",
+    "openTime": "14:30",
+    "startTime": "15:00",
+    "endTime": "22:40",
+    "description": "LadySteady supported by BUZZチケ @ Spotify O-EAST (開場14:30 / 開演15:00)"
+  },
+  "lives": [
+    {
+      "id": "ladysteady_live_01",
+      "groupName": "Lv.♡Charm",
+      "stage": "Spotify O-EAST",
+      "startTime": "15:00",
+      "endTime": "15:25",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_02",
+      "groupName": "限りなく白く",
+      "stage": "Spotify O-EAST",
+      "startTime": "15:25",
+      "endTime": "15:50",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_03",
+      "groupName": "Hzme",
+      "stage": "Spotify O-EAST",
+      "startTime": "15:50",
+      "endTime": "16:15",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_04",
+      "groupName": "selfish",
+      "stage": "Spotify O-EAST",
+      "startTime": "16:20",
+      "endTime": "16:45",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_05",
+      "groupName": "myojou",
+      "stage": "Spotify O-EAST",
+      "startTime": "16:45",
+      "endTime": "17:10",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_06",
+      "groupName": "log you",
+      "stage": "Spotify O-EAST",
+      "startTime": "17:10",
+      "endTime": "17:35",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_07",
+      "groupName": "NEVER END ROLL",
+      "stage": "Spotify O-EAST",
+      "startTime": "17:35",
+      "endTime": "18:00",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_08",
+      "groupName": "マリークラウン",
+      "stage": "Spotify O-EAST",
+      "startTime": "18:05",
+      "endTime": "18:30",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_09",
+      "groupName": "なみだ色の消しごむ",
+      "stage": "Spotify O-EAST",
+      "startTime": "18:30",
+      "endTime": "18:55",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_10",
+      "groupName": "Onephony",
+      "stage": "Spotify O-EAST",
+      "startTime": "18:55",
+      "endTime": "19:20",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_11",
+      "groupName": "タイトル未定",
+      "stage": "Spotify O-EAST",
+      "startTime": "19:20",
+      "endTime": "19:45",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_12",
+      "groupName": "MirVvt",
+      "stage": "Spotify O-EAST",
+      "startTime": "19:50",
+      "endTime": "20:15",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_13",
+      "groupName": "ハルニシオン",
+      "stage": "Spotify O-EAST",
+      "startTime": "20:15",
+      "endTime": "20:40",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_14",
+      "groupName": "fav me",
+      "stage": "Spotify O-EAST",
+      "startTime": "20:40",
+      "endTime": "21:05",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_live_15",
+      "groupName": "Jams Collection",
+      "stage": "Spotify O-EAST",
+      "startTime": "21:05",
+      "endTime": "21:30",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "ladysteady_tokuten_01",
+      "groupName": "Lv.♡Charm",
+      "venue": "Spotify O-EAST",
+      "tableArea": "A",
+      "startTime": "15:35",
+      "endTime": "16:35",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_02",
+      "groupName": "限りなく白く",
+      "venue": "Spotify O-EAST",
+      "tableArea": "B",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_03",
+      "groupName": "Hzme",
+      "venue": "Spotify O-EAST",
+      "tableArea": "C",
+      "startTime": "16:25",
+      "endTime": "17:25",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_04",
+      "groupName": "selfish",
+      "venue": "Spotify O-EAST",
+      "tableArea": "A",
+      "startTime": "16:55",
+      "endTime": "17:55",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_05",
+      "groupName": "myojou",
+      "venue": "Spotify O-EAST",
+      "tableArea": "B",
+      "startTime": "17:20",
+      "endTime": "18:20",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_06",
+      "groupName": "log you",
+      "venue": "Spotify O-EAST",
+      "tableArea": "C",
+      "startTime": "17:45",
+      "endTime": "18:45",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_07",
+      "groupName": "NEVER END ROLL",
+      "venue": "Spotify O-EAST",
+      "tableArea": "A",
+      "startTime": "18:10",
+      "endTime": "19:10",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_08",
+      "groupName": "マリークラウン",
+      "venue": "Spotify O-EAST",
+      "tableArea": "B",
+      "startTime": "18:35",
+      "endTime": "19:35",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_09",
+      "groupName": "なみだ色の消しごむ",
+      "venue": "Spotify O-EAST",
+      "tableArea": "C",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_10",
+      "groupName": "Onephony",
+      "venue": "Spotify O-EAST",
+      "tableArea": "A",
+      "startTime": "19:25",
+      "endTime": "20:25",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_11",
+      "groupName": "タイトル未定",
+      "venue": "Spotify O-EAST",
+      "tableArea": "B",
+      "startTime": "19:50",
+      "endTime": "20:50",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_12",
+      "groupName": "MirVvt",
+      "venue": "Spotify O-EAST",
+      "tableArea": "終演後",
+      "startTime": "21:30",
+      "endTime": "22:40",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_13",
+      "groupName": "ハルニシオン",
+      "venue": "Spotify O-EAST",
+      "tableArea": "終演後",
+      "startTime": "21:30",
+      "endTime": "22:40",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_14",
+      "groupName": "fav me",
+      "venue": "Spotify O-EAST",
+      "tableArea": "終演後",
+      "startTime": "21:30",
+      "endTime": "22:40",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "ladysteady_tokuten_15",
+      "groupName": "Jams Collection",
+      "venue": "Spotify O-EAST",
+      "tableArea": "終演後",
+      "startTime": "21:30",
+      "endTime": "22:40",
+      "description": "終演後特典会",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}

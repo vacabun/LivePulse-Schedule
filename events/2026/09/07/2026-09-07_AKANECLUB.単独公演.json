@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "AKANECLUB.単独公演 -目指せYonpiece!!!-",
+    "venue": "Spotify O-Crest",
+    "date": "2026-09-07",
+    "openTime": "19:15",
+    "startTime": "19:45",
+    "endTime": "22:00",
+    "description": "AKANECLUB.単独公演 -目指せYonpiece!!!- @ Spotify O-Crest (前方¥4000 / 一般¥1500 +1drink)"
+  },
+  "lives": [
+    {
+      "id": "akaneclub_solo_live_1",
+      "groupName": "AKANECLUB.",
+      "stage": "Spotify O-Crest",
+      "startTime": "19:45",
+      "endTime": "20:20",
+      "description": "LIVE 舞台演出 (35分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "akaneclub_solo_tokuten_1",
+      "groupName": "AKANECLUB.",
+      "venue": "Spotify O-Crest",
+      "tableArea": "",
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "description": "終演後物販・特典会",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}

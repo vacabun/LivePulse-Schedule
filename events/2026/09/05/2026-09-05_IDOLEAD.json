@@ -1,0 +1,226 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "IDOLEAD",
+    "venue": "白金高輪 SELENE b2",
+    "date": "2026-09-05",
+    "openTime": "11:00",
+    "startTime": "11:30",
+    "endTime": "16:45",
+    "description": "IDOLEAD @ 白金高輪 SELENE b2 (前方エリア ¥5,000 / 一般エリア ¥2,000 +1D)"
+  },
+  "lives": [
+    {
+      "id": "idolead_live_01",
+      "groupName": "フィルフェリーチェ",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "11:30",
+      "endTime": "11:50",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_02",
+      "groupName": "シャルロット",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "11:50",
+      "endTime": "12:10",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_03",
+      "groupName": "Cherie!",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "12:10",
+      "endTime": "12:30",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_04",
+      "groupName": "Bunny La Crew",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "12:30",
+      "endTime": "12:50",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_05",
+      "groupName": "太陽と踊れ月夜に唄え",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "12:50",
+      "endTime": "13:10",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_06",
+      "groupName": "君と見るそら",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "13:10",
+      "endTime": "13:30",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_07",
+      "groupName": "selfish",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "13:30",
+      "endTime": "13:55",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_08",
+      "groupName": "限りなく白く",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "13:55",
+      "endTime": "14:20",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_09",
+      "groupName": "hakanai",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "14:20",
+      "endTime": "14:45",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_10",
+      "groupName": "ポラリススマイル",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "14:45",
+      "endTime": "15:05",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_live_11",
+      "groupName": "SAI²Rium",
+      "stage": "白金高輪 SELENE b2",
+      "startTime": "15:05",
+      "endTime": "15:25",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "idolead_tokuten_01",
+      "groupName": "フィルフェリーチェ",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "A",
+      "startTime": "11:55",
+      "endTime": "13:05",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_02",
+      "groupName": "シャルロット",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "B",
+      "startTime": "12:15",
+      "endTime": "13:25",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_03",
+      "groupName": "Cherie!",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "C",
+      "startTime": "12:35",
+      "endTime": "13:45",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_04",
+      "groupName": "Bunny La Crew",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "A",
+      "startTime": "12:55",
+      "endTime": "14:05",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_05",
+      "groupName": "太陽と踊れ月夜に唄え",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "B",
+      "startTime": "13:15",
+      "endTime": "14:25",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_06",
+      "groupName": "君と見るそら",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "C",
+      "startTime": "13:35",
+      "endTime": "14:45",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_07",
+      "groupName": "selfish",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "A",
+      "startTime": "14:00",
+      "endTime": "15:10",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_08",
+      "groupName": "限りなく白く",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "B",
+      "startTime": "14:25",
+      "endTime": "15:35",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_09",
+      "groupName": "hakanai",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "終演後",
+      "startTime": "15:35",
+      "endTime": "16:45",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_10",
+      "groupName": "ポラリススマイル",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "終演後",
+      "startTime": "15:35",
+      "endTime": "16:45",
+      "description": "終演後特典会",
+      "isStarred": false
+    },
+    {
+      "id": "idolead_tokuten_11",
+      "groupName": "SAI²Rium",
+      "venue": "白金高輪 SELENE b2",
+      "tableArea": "終演後",
+      "startTime": "15:35",
+      "endTime": "16:45",
+      "description": "終演後特典会",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}

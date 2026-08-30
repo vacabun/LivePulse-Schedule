@@ -1,0 +1,55 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "おいでよ！クマリフレンズ♡vol.5",
+    "venue": "恵比寿CreAto",
+    "date": "2026-09-04",
+    "openTime": "18:30",
+    "startTime": "19:00",
+    "endTime": "21:30",
+    "description": "クマリデパート 定期公演 『おいでよ！クマリフレンズ♡ Vol.5』 @ 恵比寿CreAto (一般¥2,500 / 学生¥1,000 / 当日¥3,000 +1D)"
+  },
+  "lives": [
+    {
+      "id": "kumarifriends5_live_1",
+      "groupName": "フューチャーサイダー",
+      "stage": "恵比寿CreAto",
+      "startTime": "19:00",
+      "endTime": "19:30",
+      "description": "Live 舞台演出 (30分钟 / Guest)",
+      "isStarred": false
+    },
+    {
+      "id": "kumarifriends5_live_2",
+      "groupName": "クマリデパート",
+      "stage": "恵比寿CreAto",
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "description": "Live 舞台演出 (30分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "kumarifriends5_tokuten_1",
+      "groupName": "フューチャーサイダー",
+      "venue": "恵比寿CreAto",
+      "tableArea": "",
+      "startTime": "20:10",
+      "endTime": "21:30",
+      "description": "終演後特典会 (80分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "kumarifriends5_tokuten_2",
+      "groupName": "クマリデパート",
+      "venue": "恵比寿CreAto",
+      "tableArea": "",
+      "startTime": "20:10",
+      "endTime": "21:30",
+      "description": "終演後特典会 (80分钟)",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": []
+}
