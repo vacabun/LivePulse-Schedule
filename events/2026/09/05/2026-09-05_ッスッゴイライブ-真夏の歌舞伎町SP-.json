@@ -1,0 +1,340 @@
+{
+  "version": "2.0",
+  "festival": {
+    "name": "ッスッゴイライブ-真夏の歌舞伎町SP-",
+    "venue": "KABUKICHO TOWER STAGE",
+    "date": "2026-09-05",
+    "openTime": "12:00",
+    "startTime": "12:30",
+    "endTime": "20:30",
+    "description": "ッスッゴイライブ-真夏の歌舞伎町SP- @ KABUKICHO TOWER STAGE (開場12:00 / 開演12:30)"
+  },
+  "lives": [
+    {
+      "id": "ssugoi_live_01",
+      "groupName": "WASURENA",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "12:30",
+      "endTime": "12:50",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_02",
+      "groupName": "ツキナミ",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "12:50",
+      "endTime": "13:10",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_03",
+      "groupName": "ルージュブック",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "13:10",
+      "endTime": "13:30",
+      "description": "Live 舞台演出 (20分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_04",
+      "groupName": "NiLUNLOCK",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "13:30",
+      "endTime": "13:55",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_05",
+      "groupName": "Tohkei",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "13:55",
+      "endTime": "14:20",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_06",
+      "groupName": "キングサリ",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "14:20",
+      "endTime": "14:45",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_07",
+      "groupName": "MATE×MATE",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "14:50",
+      "endTime": "15:15",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_08",
+      "groupName": "シオリベル",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "15:15",
+      "endTime": "15:40",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_09",
+      "groupName": "17秒前の瞬きに光を",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "15:40",
+      "endTime": "16:05",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_10",
+      "groupName": "FULIT BOX",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "16:05",
+      "endTime": "16:30",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_11",
+      "groupName": "虜なるプレリュード",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "16:30",
+      "endTime": "16:55",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_12",
+      "groupName": "アンスリューム",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "17:00",
+      "endTime": "17:25",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_13",
+      "groupName": "ワガママなラストノート",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "17:25",
+      "endTime": "17:50",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_14",
+      "groupName": "selfish",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "17:50",
+      "endTime": "18:15",
+      "description": "Live 舞台演出 (25分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_15",
+      "groupName": "なみだ色の消しごむ",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "18:15",
+      "endTime": "18:45",
+      "description": "Live 舞台演出 (30分钟)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_live_16",
+      "groupName": "ハルニシオン",
+      "stage": "KABUKICHO TOWER STAGE",
+      "startTime": "18:45",
+      "endTime": "19:15",
+      "description": "Live 舞台演出 (30分钟)",
+      "isStarred": false
+    }
+  ],
+  "tokutenkais": [
+    {
+      "id": "ssugoi_tokuten_01",
+      "groupName": "WASURENA",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "13:05",
+      "endTime": "14:15",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_02",
+      "groupName": "ツキナミ",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "B",
+      "startTime": "13:30",
+      "endTime": "14:40",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_03",
+      "groupName": "ルージュブック",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "C",
+      "startTime": "13:50",
+      "endTime": "15:00",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_04",
+      "groupName": "NiLUNLOCK",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "14:20",
+      "endTime": "15:30",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_05",
+      "groupName": "Tohkei",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "B",
+      "startTime": "14:45",
+      "endTime": "15:55",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_06",
+      "groupName": "キングサリ",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "C",
+      "startTime": "15:10",
+      "endTime": "16:20",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_07",
+      "groupName": "MATE×MATE",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "15:35",
+      "endTime": "16:45",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_08",
+      "groupName": "シオリベル",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "B",
+      "startTime": "16:05",
+      "endTime": "17:15",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_09",
+      "groupName": "17秒前の瞬きに光を",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "C",
+      "startTime": "16:30",
+      "endTime": "17:40",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_10",
+      "groupName": "FULIT BOX",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "16:50",
+      "endTime": "18:00",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_11",
+      "groupName": "虜なるプレリュード",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "B",
+      "startTime": "17:20",
+      "endTime": "18:30",
+      "description": "並行特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_12",
+      "groupName": "アンスリューム",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "C",
+      "startTime": "17:50",
+      "endTime": "19:00",
+      "description": "並行特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_13",
+      "groupName": "ワガママなラストノート",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "18:10",
+      "endTime": "19:20",
+      "description": "並行特典会 (A)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_14",
+      "groupName": "selfish",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "B",
+      "startTime": "19:20",
+      "endTime": "20:30",
+      "description": "終演後特典会 (B)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_15",
+      "groupName": "なみだ色の消しごむ",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "C",
+      "startTime": "19:20",
+      "endTime": "20:30",
+      "description": "終演後特典会 (C)",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_tokuten_16",
+      "groupName": "ハルニシオン",
+      "venue": "KABUKICHO TOWER STAGE",
+      "tableArea": "A",
+      "startTime": "19:20",
+      "endTime": "20:30",
+      "description": "終演後特典会 (A)",
+      "isStarred": false
+    }
+  ],
+  "otherEvents": [
+    {
+      "id": "ssugoi_break_01",
+      "title": "時間調整・転換",
+      "startTime": "14:45",
+      "endTime": "14:50",
+      "venue": "KABUKICHO TOWER STAGE",
+      "description": "舞台時間調整 / 転換休憩",
+      "isStarred": false
+    },
+    {
+      "id": "ssugoi_break_02",
+      "title": "時間調整・転換",
+      "startTime": "16:55",
+      "endTime": "17:00",
+      "venue": "KABUKICHO TOWER STAGE",
+      "description": "舞台時間調整 / 転換休憩",
+      "isStarred": false
+    }
+  ]
+}
